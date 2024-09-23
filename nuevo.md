@@ -1,0 +1,5 @@
+GEOADD "numS:1" 21.474380 -104.883300 "CONSTRUAHORRO"
+GEOADD "numS:2" 21.477146 -104.885568 "Comercializadora del pacífico"
+GEOADD "numS:3" 21.475886 -104.883762 "Acrílicos y Cortes Láser SVA"
+GEOADD "numS:4" 21.477305 -104.867619 "Materiales Garzaceros S.A. de C.V."
+GEOADD "numS:5" 21.479810 -104.845990 "Grupo Construnay"
